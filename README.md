@@ -16,7 +16,7 @@ docker-compose up --build
 
 # Connect to mongo using Compass
 
-Download (MongoDb Compass)[https://www.mongodb.com/try/download/compass] and use below connection string:
+Download [MongoDb Compass](https://www.mongodb.com/try/download/compass) and use below connection string:
 
 ```
 mongodb://root:password@localhost:27017/
